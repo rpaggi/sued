@@ -1,0 +1,44 @@
+body{
+  background : black;
+  color: red;
+  font-family: "Verdana", Sans, sans-serif;
+  font-size: 12px;
+}
+
+input{
+    background: black;
+    border: 2px solid red;
+    color: red;
+}
+
+button {
+    background: black;
+    border: 2px solid red;
+    color: red;
+}
+
+#master{
+    /*border: 1px solid pink;*/
+    with : 400px;
+    height: 400px;
+}
+
+#conteudo{
+    width: 315px;
+    margin: 0 auto;  
+    /*border: 1px solid purple;*/
+}
+
+.sued_h1{
+  padding-left: 100px;
+  font-size: 40px;
+}
+
+h1{
+  color: red;
+}
+
+.blood_line{
+    position: absolute;
+    clip: rect(0px,315px,24px,0px);
+}
